@@ -3,6 +3,8 @@ The following is the analysis of the local temperature trends and the global tem
 # Analysis done
 * Extract the data
 * Compute moving averages
-* Moving averages in spreadsheets
 * Line chart
 * Observations
+# Requirements
+* Sql
+* Excel
